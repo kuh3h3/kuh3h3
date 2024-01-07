@@ -1,0 +1,3787 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (2023-11-07 오후 12:53:30)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.12.5236448
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 52 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.16.2]
+[Info   :   BepInEx] Loading [Building Repair 0.4.0]
+[Info   :   BepInEx] Loading [AzuExtendedPlayerInventory 1.3.8]
+[Info   :   BepInEx] Loading [Configuration Manager 18.2]
+[Info   :   BepInEx] Loading [Jotunn 2.16.1]
+[Info   :Jotunn.Main] Initializing ModCompatibility
+[Info   :Jotunn.Main] Initializing SynchronizationManager
+[Info   :Jotunn.Main] Initializing NetworkManager
+[Info   :   BepInEx] Loading [ValheimRAFT 1.6.10]
+[Info   :ValheimRAFT.Patches.PatchController] Applying PlanBuild Patch
+[Info   :Jotunn.Main] Initializing CommandManager
+[Info   :Jotunn.Main] Initializing PrefabManager
+[Info   :   BepInEx] Loading [BetterLaddersContinued 0.217.24]
+[Info   :   BepInEx] Loading [ClayBuildPieces 1.0.6]
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #0 - 'localization' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #1 - 'localization_extra' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #2 - 'heightmap_message' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #3 - 'localization_hildir' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:47:49: Loaded localization file #4 - 'localization_emotes' language: 'Korean'
+
+[Info   :   BepInEx] Loading [FineWoodBuildPieces 1.0.0]
+[Info   :   BepInEx] Loading [FineWoodFurnitures 1.0.0]
+[Info   :   BepInEx] Loading [GlassPieces 1.0.4]
+[Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.0.8]
+[Info   :   BepInEx] Loading [Floors Are Roofs 2.0.2]
+[Info   : Unity Log] [floorsareroofs]: Initializing using config settings: PrefabsToChange:[wood_floor,wood_floor_1x1], Hammers:[Hammer], RemoveRainDamage:[True]
+[Info   :Jotunn.Main] Initializing PieceManager
+[Info   :   BepInEx] Loading [MissingPieces 2.0.5]
+[Info   :Jotunn.Main] Initializing LocalizationManager
+[Info   :Jotunn.Main] Initializing MockManager
+[Info   :MissingPieces.MissingPiecesPlugin] Missing Pieces landed!
+[Info   :   BepInEx] Loading [Frogger.KilnReimagined 1.3.3]
+[Info   :   BepInEx] Loading [BetterCreative 1.4.1]
+[Info   :   BepInEx] Loading [TeleportEverything 2.6.1]
+[Info   : Unity Log] TeleportEverything Loaded...
+[Info   :   BepInEx] Loading [CustomShips 0.1.1]
+[Error  :  HarmonyX] Failed to patch void Player::UpdatePlacementGhost(bool flashGuardStone): System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Could not find rotation calculation - Current state is invalid
+  at HarmonyLib.CodeMatcher.ThrowIfInvalid (System.String explanation) [0x00021] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at CustomShips.Patches.PlacementPatch.UpdatePlacementGhostRotationTranspiler (System.Collections.Generic.IEnumerable`1[T] instructions) [0x001a1] in <12e15ee61e7d4561b691af90a70166bc>:0 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at HarmonyLib.Internal.Patching.ILManipulator.ApplyTranspilers (System.Reflection.Emit.ILGenerator il, System.Reflection.MethodBase original, System.Func`2[T,TResult] getLocal, System.Func`1[TResult] defineLabel) [0x00093] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Internal.Patching.ILManipulator.WriteTo (Mono.Cecil.Cil.MethodBody body, System.Reflection.MethodBase original) [0x00066] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Public.Patching.HarmonyManipulator.WriteTranspilers () [0x00084] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () [0x0002b] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+[Error  : Unity Log] InvalidOperationException: Could not find rotation calculation - Current state is invalid
+Stack trace:
+HarmonyLib.CodeMatcher.ThrowIfInvalid (System.String explanation) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+CustomShips.Patches.PlacementPatch.UpdatePlacementGhostRotationTranspiler (System.Collections.Generic.IEnumerable`1[T] instructions) (at <12e15ee61e7d4561b691af90a70166bc>:0)
+System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+HarmonyLib.Internal.Patching.ILManipulator.ApplyTranspilers (System.Reflection.Emit.ILGenerator il, System.Reflection.MethodBase original, System.Func`2[T,TResult] getLocal, System.Func`1[TResult] defineLabel) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Internal.Patching.ILManipulator.WriteTo (Mono.Cecil.Cil.MethodBody body, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteTranspilers () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Process (MonoMod.Cil.ILContext ilContext, System.Reflection.MethodBase originalMethod) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Manipulate (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo, MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Manipulate (System.Reflection.MethodBase original, MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.Manipulator (MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+MonoMod.Cil.ILContext.Invoke (MonoMod.Cil.ILContext+Manipulator manip) (at <6733e342b5b549bba815373898724469>:0)
+MonoMod.RuntimeDetour.ILHook+Context.InvokeManipulator (Mono.Cecil.MethodDefinition def, MonoMod.Cil.ILContext+Manipulator cb) (at <4e2760c7517c4ea79c633d67e84b319f>:0)
+(wrapper dynamic-method) MonoMod.RuntimeDetour.ILHook+Context.DMD<MonoMod.RuntimeDetour.ILHook+Context::Refresh>(MonoMod.RuntimeDetour.ILHook/Context)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?1868265470(object)
+HarmonyLib.Internal.RuntimeFixes.StackTraceFixes.OnILChainRefresh (System.Object self) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+MonoMod.RuntimeDetour.ILHook.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:0)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchFunctions.UpdateWrapper (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.<PatchAll>b__11_0 (System.Type type) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+CustomShips.Main.Awake () (at <12e15ee61e7d4561b691af90a70166bc>:0)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.GameObject:.cctor()
+Fishlabs.Common.SingletonMonoBehaviour`1:get_Instance()
+Fishlabs.PlatformManagerInitializer:OnRuntimeMethodLoad()
+
+[Info   :   BepInEx] Loading [FenceSnap 0.3.0]
+[Info   :   BepInEx] Loading [VNEI 0.14.0]
+[Info   :Jotunn.Main] Initializing GUIManager
+[Info   :Jotunn.Main] Initializing ModQuery
+[Info   :   BepInEx] Loading [BoneAppetit 3.3.0]
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Info   :Jotunn.Main] Initializing ItemManager
+[Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :Jotunn.Main] Initializing SkillManager
+[Info   :   BepInEx] Loading [Skills Overhaul 1.0.11]
+[Info   :   Skills Overhaul] 2024-01-07 오후 9:47:53: Succesfully loaded Skills Overhaul 1.0.11
+[Info   :   BepInEx] Loading [ValheimVRM 1.2.1.0]
+[Info   : Unity Log] [ValheimVRM] Add Shader: UniGLTF/NormalMapDecoder
+[Info   : Unity Log] [ValheimVRM] Add Shader: UniGLTF/NormalMapEncoder
+[Info   : Unity Log] [ValheimVRM] Add Shader: UniGLTF/StandardVColor
+[Info   : Unity Log] [ValheimVRM] Add Shader: VRM/UnlitCutout
+[Info   : Unity Log] [ValheimVRM] Add Shader: VRM/UnlitTexture
+[Info   : Unity Log] [ValheimVRM] Add Shader: VRM/UnlitTransparent
+[Info   : Unity Log] [ValheimVRM] Add Shader: VRM/UnlitTransparentZWrite
+[Info   : Unity Log] [ValheimVRM] Add Shader: VRM/MToon
+[Info   : Unity Log] [ValheimVRM] Add Shader: UniGLTF/UniUnlit
+[Info   :   BepInEx] Loading [Paved Road No Level 1.0.5]
+[Info   :   BepInEx] Loading [FastTeleport 1.1.0]
+[Info   :   BepInEx] Loading [More Gates 1.0.10]
+[Info   :   BepInEx] Loading [Weight Change By Kojeak 0.0.2]
+[Info   :   BepInEx] Loading [PlanBuild 0.14.7]
+[Info   :Jotunn.Main] Initializing InputManager
+[Info   :PlanBuild.Blueprints.BlueprintManager] Initializing BlueprintManager
+[Info   :PlanBuild.Blueprints.BlueprintSync] Loading known blueprints
+[Info   :Jotunn.Main] Initializing UndoManager
+[Info   :Jotunn.Main] Initializing KitbashManager
+[Info   :PlanBuild.Plans.PlanManager] Initializing PlanManager
+[Info   :PlanBuild.Patches] Applying ValheimRAFT patches
+[Info   :   BepInEx] Loading [OdinShipPlus 0.4.5]
+[Error  :  HarmonyX] Failed to patch void Player::UpdatePlacementGhost(bool flashGuardStone): System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Could not find rotation calculation - Current state is invalid
+  at HarmonyLib.CodeMatcher.ThrowIfInvalid (System.String explanation) [0x00021] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at CustomShips.Patches.PlacementPatch.UpdatePlacementGhostRotationTranspiler (System.Collections.Generic.IEnumerable`1[T] instructions) [0x001a1] in <12e15ee61e7d4561b691af90a70166bc>:0 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <834b2ded5dad441e8c7a4287897d63c7>:0 
+  at HarmonyLib.Internal.Patching.ILManipulator.ApplyTranspilers (System.Reflection.Emit.ILGenerator il, System.Reflection.MethodBase original, System.Func`2[T,TResult] getLocal, System.Func`1[TResult] defineLabel) [0x00093] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Internal.Patching.ILManipulator.WriteTo (Mono.Cecil.Cil.MethodBody body, System.Reflection.MethodBase original) [0x00066] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Public.Patching.HarmonyManipulator.WriteTranspilers () [0x00084] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+  at HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () [0x0002b] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
+[Error  : Unity Log] InvalidOperationException: Could not find rotation calculation - Current state is invalid
+Stack trace:
+HarmonyLib.CodeMatcher.ThrowIfInvalid (System.String explanation) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+CustomShips.Patches.PlacementPatch.UpdatePlacementGhostRotationTranspiler (System.Collections.Generic.IEnumerable`1[T] instructions) (at <12e15ee61e7d4561b691af90a70166bc>:0)
+System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) (at <834b2ded5dad441e8c7a4287897d63c7>:0)
+HarmonyLib.Internal.Patching.ILManipulator.ApplyTranspilers (System.Reflection.Emit.ILGenerator il, System.Reflection.MethodBase original, System.Func`2[T,TResult] getLocal, System.Func`1[TResult] defineLabel) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Internal.Patching.ILManipulator.WriteTo (Mono.Cecil.Cil.MethodBody body, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteTranspilers () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.Public.Patching.HarmonyManipulator.WriteImpl () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Process (MonoMod.Cil.ILContext ilContext, System.Reflection.MethodBase originalMethod) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Manipulate (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo, MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.HarmonyManipulator.Manipulate (System.Reflection.MethodBase original, MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.Manipulator (MonoMod.Cil.ILContext ctx) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+MonoMod.Cil.ILContext.Invoke (MonoMod.Cil.ILContext+Manipulator manip) (at <6733e342b5b549bba815373898724469>:0)
+MonoMod.RuntimeDetour.ILHook+Context.InvokeManipulator (Mono.Cecil.MethodDefinition def, MonoMod.Cil.ILContext+Manipulator cb) (at <4e2760c7517c4ea79c633d67e84b319f>:0)
+(wrapper dynamic-method) MonoMod.RuntimeDetour.ILHook+Context.DMD<MonoMod.RuntimeDetour.ILHook+Context::Refresh>(MonoMod.RuntimeDetour.ILHook/Context)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<MonoMod.RuntimeDetour.ILHook+Context::Refresh>?1868265470(object)
+HarmonyLib.Internal.RuntimeFixes.StackTraceFixes.OnILChainRefresh (System.Object self) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+MonoMod.RuntimeDetour.ILHook.Apply () (at <4e2760c7517c4ea79c633d67e84b319f>:0)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.Public.Patching.ManagedMethodPatcher.DetourTo (System.Reflection.MethodBase replacement) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchFunctions.UpdateWrapper (System.Reflection.MethodBase original, HarmonyLib.PatchInfo patchInfo) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: IL Compile Error (unknown location)
+HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.<PatchAll>b__11_0 (System.Type type) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+OdinShipPlus.OdinShipPlusPlugin.⁯‪‌⁬​‮⁭⁭⁪⁪‮‎⁪​‎⁪⁯⁯⁬⁬⁯⁪⁭⁫⁭​‌‎‌‭‍⁫‬⁬‫‮‌​⁬‮‮ (HarmonyLib.Harmony ) (at <867885586b0d485389bc7d70a63025a3>:0)
+OdinShipPlus.OdinShipPlusPlugin.Awake () (at <867885586b0d485389bc7d70a63025a3>:0)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.GameObject:.cctor()
+Fishlabs.Common.SingletonMonoBehaviour`1:get_Instance()
+Fishlabs.PlatformManagerInitializer:OnRuntimeMethodLoad()
+
+[Info   :   BepInEx] Loading [AllTameable-Overhaul 1.3.7]
+[Info   :AllTameable-Overhaul] Loaded: AllTameable_TameList_From_Default.cfg
+[Info   :AllTameable-Overhaul] succesfully added Boar to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Deer to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greyling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Neck to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Bat to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Skeleton to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Surtling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Blob to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Draugr to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Poison to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Poison with mates Skeleton
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton with mates Skeleton_Poison
+[Info   :AllTameable-Overhaul] succesfully added Ghost to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf_Shaman to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Leech to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Serpent to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Wraith to the tametable
+[Info   :AllTameable-Overhaul] succesfully added BlobElite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf_Elite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Deathsquito to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Draugr_Elite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Abomination to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Fenring to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Goblin to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hatchling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Lox to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Troll to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Wolf to the tametable
+[Info   :AllTameable-Overhaul] succesfully added BlobTar to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Ulv to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinBrute to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman to the tametable
+[Info   :AllTameable-Overhaul] succesfully added StoneGolem to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Dverger to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMage to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageFire to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageIce to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageSupport to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Dverger with mates DvergerMage, DvergerMageFire, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMage with mates Dverger, DvergerMageFire, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageFire with mates Dverger, DvergerMage, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageIce with mates Dverger, DvergerMage, DvergerMageFire, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageSupport with mates Dverger, DvergerMage, DvergerMageFire, DvergerMageIce
+[Info   :AllTameable-Overhaul] succesfully added Seeker to the tametable
+[Info   :AllTameable-Overhaul] succesfully added SeekerBrute to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Seeker with mates SeekerBrute
+[Info   :AllTameable-Overhaul] succesfully Mated SeekerBrute with mates Seeker
+[Info   :AllTameable-Overhaul] succesfully added Tick to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hare to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hen to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Hildir with mates Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Hildir_nochest with mates Skeleton_Hildir
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Hildir with mates Skeleton_Hildir, Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Hildir_nochest with mates Skeleton_Hildir, Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Fenring_Cultist_Hildir with mates Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Fenring_Cultist_Hildir_nochest with mates Fenring_Cultist_Hildir
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist_Hildir with mates Fenring_Cultist_Hildir, Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist_Hildir_nochest with mates Fenring_Cultist_Hildir, Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated GoblinShaman_Hildir with mates GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated GoblinShaman_Hildir_nochest with mates GoblinShaman_Hildir
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman_Hildir with mates GoblinShaman_Hildir, GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman_Hildir_nochest with mates GoblinShaman_Hildir, GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Eikthyr to the tametable
+[Info   :AllTameable-Overhaul] succesfully added gd_king to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Bonemass to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Dragon to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinKing to the tametable
+[Info   :AllTameable-Overhaul] succesfully added SeekerQueen to the tametable
+[Info   :AllTameable-Overhaul] AllTameable:Your list has: Boar,  Deer,  Greyling,  Neck,  Bat,  Greydwarf,  Skeleton,  Surtling,  Blob,  Draugr,  Skeleton_Poison,  Ghost,  Greydwarf_Shaman,  Leech,  Serpent,  Wraith,  BlobElite,  Greydwarf_Elite,  Deathsquito,  Draugr_Elite,  Abomination,  Fenring,  Goblin,  Hatchling,  Lox,  Troll,  Wolf,  BlobTar,  Ulv,  Fenring_Cultist,  GoblinBrute,  GoblinShaman,  StoneGolem,  Dverger,  DvergerMage,  DvergerMageFire,  DvergerMageIce,  DvergerMageSupport,  Seeker,  SeekerBrute,  Tick,  Hare,  Hen,  Skeleton_Hildir,  Skeleton_Hildir_nochest,  Fenring_Cultist_Hildir,  Fenring_Cultist_Hildir_nochest,  GoblinShaman_Hildir,  GoblinShaman_Hildir_nochest,  Eikthyr,  gd_king,  Bonemass,  Dragon,  GoblinKing,  SeekerQueen,  
+[Info   :AllTameable-Overhaul] Check CLLC Failed: CLLC=False
+[Info   :AllTameable-Overhaul] Patching Select
+[Info   :AllTameable-Overhaul] AllTameable Loaded
+[Info   :   BepInEx] Loading [Mount Up Restored 3.2.11]
+[Info   :MountUp.Patches] Applying AllTameable patches
+[Info   :   BepInEx] Loading [LoxsquitoLove 0.1.0]
+[Info   : Unity Log] LoxsquitoLove: Awake
+[Info   :   BepInEx] Loading [OdinsKingdom 1.2.17]
+[Info   :   BepInEx] Loading [CopperRoofs 0.2.0]
+[Info   :CopperRoofs.CopperRoofs] CopperRoof has landed
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [OdinCampsite 1.5.3]
+[Info   :   BepInEx] Loading [OdinTrainingPlace 1.5.3]
+[Info   :   BepInEx] Loading [SearsCatalog 1.4.0]
+[Info   :   BepInEx] Loading [Seasonality 3.0.6]
+[Info   :Seasonality] Willybach HD loaded
+[Info   :   BepInEx] Loading [SeasonalTweaks 1.0.1]
+[Info   :   BepInEx] Loading [TurfRoof 1.0.4]
+[Info   :   BepInEx] Loading [FogPushers 1.0.2]
+[Info   :   BepInEx] Loading [RideTheWind 0.0.7.1227]
+[Info   :RideTheWind] RideTheWind version 0.0.7.1227 loaded.
+[Warning:RideTheWind] Version checking disabled via config.
+[Info   :   BepInEx] Loading [BlastFurnaceTakesAll 1.0.3]
+[Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.7]
+[Info   :   BepInEx] Loading [DvergrPieces 2.6.1]
+[Info   :   BepInEx] Loading [DistantDynasties 1.1.8]
+[Warning: Unity Log] Couldn't create a Convex Mesh from source mesh "defaultMaterial_0_0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[Warning: Unity Log] Couldn't create a Convex Mesh from source mesh "default_132" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[Info   :   BepInEx] Loading [SnowDay 1.1.8]
+[Info   :   BepInEx] Loading [VALKEA 2.1.8]
+[Info   :   BepInEx] Loading [BigPieces 1.0.0]
+[Info   :   BepInEx] Loading [XPortal 1.2.20]
+[Info   :Jotunn.Main] Initializing MinimapManager
+[Info   :   BepInEx] Loading [XStorage 1.1.7]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 01/07/2024 21:48:51: Starting to load scene:start
+
+[Info   :Frogger.KilnReimagined] Configuration Received
+[Info   : Unity Log] 01/07/2024 21:48:51: Using steam_appid.txt
+
+[Info   : Unity Log] 01/07/2024 21:48:51: Using steam APPID:892970
+
+[Info   : Unity Log] 01/07/2024 21:48:51: Authentication:k_ESteamNetworkingAvailability_Current
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #0 - 'localization' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #1 - 'localization_extra' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #2 - 'heightmap_message' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #3 - 'localization_hildir' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #4 - 'localization_emotes' language: 'Korean'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Steam initialized, persona:Player
+
+[Info   : Unity Log] 01/07/2024 21:49:03: PlayFab custom ID set to "Steam_76561200069023808"
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Using default prefs
+
+[Info   : Unity Log] 01/07/2024 21:49:03: Valheim version: 0.217.38 (network version 20)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Custom'
+[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+[Info   : Unity Log] Graphic mode 'Custom' applied!
+[Info   : Unity Log] 01/07/2024 21:49:03: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 28 commands to the Console
+[Info   : Unity Log] 01/07/2024 21:49:03: Render threading mode:LegacyJobified
+
+[Info   :Jotunn.Managers.InputManager] Registering 8 custom inputs
+[Warning:Jotunn.Utils.InputUtils] Key BackQuote not found in the new input system
+[Info   : Unity Log] 01/07/2024 21:49:04: Checking for installed DLCs
+
+[Info   : Unity Log] 01/07/2024 21:49:04: DLC:beta installed:False
+
+[Info   :Jotunn.Main] Initializing KeyHintManager
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
+[Info   :PavedRoadNoLevel.PavedRoadNoLevel] Successfully patched Paved Road, enjoy!
+[Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
+[Info   :Jotunn.Managers.ItemManager] Adding 49 custom items to the ObjectDB
+[Info   : Unity Log] [ValheimVRM] ModelScale: 1.1
+[Info   : Unity Log] [ValheimVRM] VRM読み込み成功
+[Info   : Unity Log] [ValheimVRM] VRMファイルパス: K:\Valheim.v0.217.38\Valheim.v0.217.38\ValheimVRM\Kuhehehe.vrm
+[Info   : Unity Log] [ValheimVRM] ModelBrightness: 0.8
+[Info   : Unity Log] [ValheimVRM] UseMToonShader: False
+[Info   : Unity Log] [ValheimVRM] EnablePlayerFade: True
+[Info   : Unity Log] [ValheimVRM] ModelOffsetY: 0
+[Info   : Unity Log] [ValheimVRM] FixCameraHeight: True
+[Info   : Unity Log] [ValheimVRM] UseMToonShader: False
+[Info   : Unity Log] [ValheimVRM] SpringBoneStiffness: 1
+[Info   : Unity Log] [ValheimVRM] SpringBoneGravityPower: 1
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 01/07/2024 21:49:08: Vis equip model set to 1
+
+[Info   : Unity Log] 01/07/2024 21:49:08: Sending PlayFab login request (attempt 1)
+
+[Info   :Frogger.KilnReimagined] Configuration Received
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 21:49:08: Starting music menu
+
+[Info   : Unity Log] 01/07/2024 21:49:09: PlayFab logged in as "Steam_76561200069023808"
+
+[Info   : Unity Log] 01/07/2024 21:49:09: PlayFab local entity ID is AEA32695251E21D
+
+[Info   : Unity Log] 01/07/2024 21:49:18: show character selection
+
+[Info   : Unity Log] 01/07/2024 21:49:20: OnCharacterStart
+
+[Info   : Unity Log] 01/07/2024 21:49:23: Loading main scene
+
+[Info   : Unity Log] UnityResourceDestroyer.OnDestroy
+[Info   : Unity Log] 01/07/2024 21:49:23: Steam initialized, persona:Player
+
+[Info   : Unity Log] 01/07/2024 21:49:23: PlayFab custom ID set to "Steam_76561200069023808"
+
+[Info   : Unity Log] 01/07/2024 21:49:23: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 28 commands to the Console
+[Info   : Unity Log] 01/07/2024 21:49:23: Loading player profile kuhehehe
+
+[Info   : Unity Log] 01/07/2024 21:49:23: isModded: True
+
+[Info   : Unity Log] 01/07/2024 21:49:23: Zonesystem Awake 1567
+
+[Info   : Unity Log] 01/07/2024 21:49:23: DungeonDB Awake 1567
+
+[Info   : Unity Log] 01/07/2024 21:49:23: Steam initialized, persona:Player
+
+[Info   : Unity Log] 01/07/2024 21:49:23: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.AzuExtendedPlayerInventory ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.ClayBuildPieces ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.FineWoodBuildPieces ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.FineWoodFurnitures ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.GlassPieces ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.WieldEquipmentWhileSwimming ConfigSync' RPC - waiting for incoming connections
+[Info   :Frogger.KilnReimagined] Registered 'Frogger.KilnReimagined ConfigSync' RPC - waiting for incoming connections
+[Info   :Frogger.KilnReimagined] Registered 'com.Frogger.Frogger.KilnReimagined PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.kpro.TeleportEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinsKingdom ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'odinplus.plugins.odinskingdom ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'odinplus.plugins.odinskingdom PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinCampsite ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinCampsite PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinCampsite ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinTrainingPlace ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinTrainingPlace PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinTrainingPlace ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'RustyMods.Seasonality ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'RustyMods.SeasonalTweaks ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'RustyMods.TurfRoof ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'RustyMods.TurfRoof PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Shroomy.FogPushers ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Shroomy.FogPushers PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Shroomy.FogPushers ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Tequila.DvergrPieces ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Tequila.DvergrPieces PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.DistantDynasties ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.DistantDynasties ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.SnowDay ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.SnowDay ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.VALKEA ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'TheBeesDecree.VALKEA ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 181 custom prefabs to the ZNetScene
+[Info   : Unity Log] 01/07/2024 21:49:25: Audioman already exist, destroying self
+
+[Info   : Unity Log] 01/07/2024 21:49:25: Checking for installed DLCs
+
+[Info   : Unity Log] 01/07/2024 21:49:25: DLC:beta installed:False
+
+[Info   :Jotunn.Main] Initializing RenderManager
+[Info   :Jotunn.Main] Initializing ZoneManager
+[Info   :Jotunn.Managers.ItemManager] Adding 49 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 44 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 1 custom item conversions
+[Info   :Jotunn.Managers.PieceManager] Adding 871 custom pieces to the PieceTables
+[Info   : Unity Log] [floorsareroofs]: Triggered from PieceManager_OnPiecesRegistered
+[Info   : Unity Log] [floorsareroofs]: Beginning patch attempt
+[Info   : Unity Log] [floorsareroofs]: Starting to patches pieces in Hammer Hammer.
+[Info   : Unity Log] [floorsareroofs]: Preparing to patch wood_floor_1x1
+[Info   : Unity Log] [floorsareroofs] Successfully patched wood_floor_1x1 into a roof
+[Info   : Unity Log] [floorsareroofs] wood_floor_1x1 patched to not degrade in the rain
+[Info   : Unity Log] [floorsareroofs]: Preparing to patch wood_floor
+[Info   : Unity Log] [floorsareroofs] Successfully patched wood_floor into a roof
+[Info   : Unity Log] [floorsareroofs] wood_floor patched to not degrade in the rain
+[Info   : Unity Log] [floorsareroofs]: Finished with hammer Hammer.  Sucessfully updated 2 floors.
+[Info   : Unity Log] [floorsareroofs]: Successfully updated 2 floors.  Config setting has 2 floors specified.
+[Info   : Unity Log] [floorsareroofs]: Floors updated finished successfully.
+[Info   :AllTameable-Overhaul] Succesfully registered NeckEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered LeechEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered SerpentEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered DeathsquitoEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered SeekerEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered SeekerBruteEgg_AT
+[Info   :AllTameable-Overhaul] Succesfully registered TickEgg_AT
+[Warning:AllTameable-Overhaul] Hen has egg as offspring, modified hatched prefab growtime
+[Info   :Jotunn.Managers.NetworkManager] Registering 6 custom RPCs
+[Info   :Frogger.KilnReimagined] Configuration Received
+[Info   : Unity Log] 01/07/2024 21:49:32: Zonesystem Start 1567
+
+[Info   : Unity Log] 01/07/2024 21:49:33: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 01/07/2024 21:49:33: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 01/07/2024 21:49:33: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 01/07/2024 21:49:33: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+
+[Info   : Unity Log] 01/07/2024 21:49:33: DungeonDB Start 1567
+
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Error  : Unity Log] Can't remove Humanoid (Script) because CharacterDrop (Script) depends on it
+[Warning:PlanBuild.Plans.PlanDB] Warning for mod developers:
+Multiple pieces with the same m_name but different resource requirements, this will cause issues with Player.m_knownRecipes!
+Piece.m_name: $piece_charcoalkiln
+ Requirements: $item_stone:20, $item_surtlingcore:5
+ Pieces: charcoal_kiln
+
+ Requirements: $item_stone:20, $item_surtlingcore:20
+ Pieces: JF_KilnReimagined
+
+Piece.m_name: $piece_wooddoor
+ Requirements: $item_wood:4
+ Pieces: wood_door
+
+ Requirements: $item_wood:6
+ Pieces: h_door_03
+
+Piece.m_name: $piece_sharpstakes
+ Requirements: $item_wood:6, $item_roundlog:4
+ Pieces: piece_sharpstakes
+
+ Requirements: $item_wood:4, $item_roundlog:7
+ Pieces: hayzestake_01
+
+Piece.m_name: $piece_yuleklapp
+ Requirements: $item_finewood:2, $item_bonefragments:1
+ Pieces: piece_gift1
+
+ Requirements: $item_finewood:3, $item_dandelion:1
+ Pieces: piece_gift2
+
+ Requirements: $item_finewood:4, $item_raspberries:1
+ Pieces: piece_gift3
+
+Piece.m_name: Drawbridge
+ Requirements: $item_wood:60, $item_iron:10, $item_chain:4
+ Pieces: h_drawbridge01
+
+ Requirements: $item_wood:55, $item_bronze:8, $item_chain:4
+ Pieces: h_drawbridge02
+
+Piece.m_name: Fancy Gate
+ Requirements: $item_wood:18
+ Pieces: Hayze_gate_01
+
+ Requirements: $item_wood:25
+ Pieces: Hayze_gate_05
+
+Piece.m_name: Small Window
+ Requirements: $item_wood:10
+ Pieces: h_window_01
+
+ Requirements: $item_wood:12
+ Pieces: h_window_02
+
+ Requirements: $item_wood:14
+ Pieces: h_window_03, h_window_05
+
+ Requirements: $item_wood:11
+ Pieces: h_window_04
+
+Piece.m_name: Large Window
+ Requirements: $item_wood:18
+ Pieces: h_window_06
+
+ Requirements: $item_wood:21
+ Pieces: h_window_07, h_window_08, h_window_09
+
+Piece.m_name: Wood stair biggest
+ Requirements: $item_wood:8
+ Pieces: big_wood_stair_biggest
+
+ Requirements: $item_wood:2
+ Pieces: big_wood_wall_half
+
+ Requirements: $item_wood:4
+ Pieces: big_wood_wall
+
+Piece.m_name: Icy Floor
+ Requirements: 
+ Pieces: piece_IcyFloor
+
+ Requirements: $item_roundlog:2
+ Pieces: piece_FrozenFloor
+
+Piece.m_name: Icy Stairs
+ Requirements: 
+ Pieces: piece_IcyStairs
+
+ Requirements: $item_roundlog:1
+ Pieces: piece_FrozenStairs
+
+Piece.m_name: Icy Gate
+ Requirements: 
+ Pieces: piece_IceyGate
+
+ Requirements: $item_roundlog:2
+ Pieces: piece_IcyGate
+
+Piece.m_name: Celler Stored Ham
+ Requirements: $item_boar_meat:5
+ Pieces: piece_HamHang
+
+ Requirements: $item_boar_meat:1
+ Pieces: piece_TiedHang
+
+
+[Info   : Unity Log] 01/07/2024 21:49:34: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 01/07/2024 21:49:34: ZNET START
+
+[Info   : Unity Log] 01/07/2024 21:49:34: Load world: newworld1 (newworld1)
+
+[Info   : Unity Log] 01/07/2024 21:49:34: Loading 1523850 zdos, my sessionID: 1554380810, data version: 33
+
+[Info   : Unity Log] 01/07/2024 21:49:34: Creating ZDOs
+
+[Info   : Unity Log] 01/07/2024 21:49:34: Loading in ZDOs
+
+[Info   : Unity Log] 01/07/2024 21:49:36: Adding to Dictionary
+
+[Info   : Unity Log] 01/07/2024 21:49:36: Adding to Sectors
+
+[Info   : Unity Log] 01/07/2024 21:49:36: Connecting Portals, Spawners & ZSyncTransforms
+
+[Info   :XPortal.Log] Connecting: `1:62338` (`집8`)  ==>  `1:966228` (`집7`)
+[Info   :XPortal.Log] Connecting: `1:168662` (`헤층굴2`)  ==>  `1:186136` (`집9`)
+[Info   :XPortal.Log] Connecting: `1:214231` (`해충굴1`)  ==>  `1:186136` (`집9`)
+[Info   :XPortal.Log] Connecting: `1:222014` (`집10`)  ==>  `1:214231` (`해충굴1`)
+[Info   :XPortal.Log] Connecting: `1:966228` (`집7`)  ==>  `1:965073` (`풍차1`)
+[Info   :XPortal.Log] Connecting: `1:994006` (`정제소1`)  ==>  `1:966228` (`집7`)
+[Info   :XPortal.Log] Connecting: `1:1077102` (`오두막1`)  ==>  `1:1078531` (`집3`)
+[Info   :XPortal.Log] Connecting: `1:1089965` (`집4`)  ==>  `1:1078531` (`집3`)
+[Info   :XPortal.Log] Connecting: `1:1173422` (`집1`)  ==>  `1:1146136` (`집2`)
+[Info   :XPortal.Log] Connecting: `1:1341187` (`집5`)  ==>  `1:1395086` (`집6`)
+[Info   :XPortal.Log] Connecting: `1:186136` (`집9`)  ==>  `1:62338` (`집8`)
+[Info   :XPortal.Log] Connecting: `1:965073` (`풍차1`)  ==>  `1:966228` (`집7`)
+[Info   :XPortal.Log] Connecting: `1:1078531` (`집3`)  ==>  `1:1341187` (`집5`)
+[Info   :XPortal.Log] Connecting: `1:1146136` (`집2`)  ==>  `1:1173422` (`집1`)
+[Info   :XPortal.Log] Connecting: `1:1395086` (`집6`)  ==>  `1:966228` (`집7`)
+[Info   : Unity Log] ConnectSpawners => Connected 3657 spawners and 885 'done' spawners.
+[Info   : Unity Log] 01/07/2024 21:49:37: Loaded 10135 locations
+
+[Info   : Unity Log] 01/07/2024 21:49:37: Unloading unused assets
+
+[Info   : Unity Log] 01/07/2024 21:49:37: Starting respawn
+
+[Info   : Unity Log] 01/07/2024 21:49:43: Unpacking compressed mapdata 40706
+
+[Info   :XPortal.Log] Received XPortal Config from server
+[Info   :XPortal.Log] Received sync request from `1554380810` because: Kuhehehe (1554380810) has joined the game
+[Info   :XPortal.Log] Known portals updated
+[Info   : Unity Log] 01/07/2024 21:49:43: tip:$loadscreen_tip04
+
+[Info   : Unity Log] 01/07/2024 21:49:50: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 21:49:50: Dungeon loaded with 13 rooms in 15.9992 ms.
+
+[Info   : Unity Log] 01/07/2024 21:49:50: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:49:50: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:49:50: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Spawned after 8.019994
+
+[Info   : Unity Log] [ValheimVRM] ModelOffsetY: 0
+[Info   : Unity Log] [ValheimVRM] FixCameraHeight: True
+[Info   : Unity Log] [ValheimVRM] UseMToonShader: False
+[Info   : Unity Log] [ValheimVRM] SpringBoneStiffness: 1
+[Info   : Unity Log] [ValheimVRM] SpringBoneGravityPower: 1
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4480.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4352.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4416.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4480.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4352.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4544.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4608.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4608.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4416.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4480.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4544.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4416.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4352.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4544.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4608.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4352.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4416.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4480.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4544.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4608.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4352.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4416.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4480.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4544.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:52: Force generating hmap (4608.00, 0.00, -4800.00)
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 01/07/2024 21:49:53: Vis equip model set to 1
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 01/07/2024 21:49:53: Skipping unloading unused assets
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :      VNEI] Index items and recipes
+[Info   :      VNEI] Loaded 2606 items and 5456 recipes
+[Info   : Unity Log] 01/07/2024 21:49:53: Minimap: Adding unique location (6.89, 34.01, 1.34)
+
+[Info   : Unity Log] 01/07/2024 21:49:53: Minimap: Adding unique location (4495.27, 31.90, -6907.39)
+
+[Info   : Unity Log] 01/07/2024 21:49:53: Minimap: Adding unique location (-1337.96, 50.08, -2693.80)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4480.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4352.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4416.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4480.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4352.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4544.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4608.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4608.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4416.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4480.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4544.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4416.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4352.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4544.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4608.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4352.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4416.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4480.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4544.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4608.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4352.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4416.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4480.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4544.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:54: Force generating hmap (4608.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 21:49:56: Starting music home
+
+[Info   : Unity Log] 01/07/2024 21:49:56: Resumed music home at 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 21:50:22: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 21:51:09: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 21:51:18: Setting selected recipe 259
+
+[Info   : Unity Log] 01/07/2024 21:51:20: Setting selected recipe 258
+
+[Info   : Unity Log] 01/07/2024 21:51:21: Setting selected recipe 257
+
+[Info   : Unity Log] 01/07/2024 21:51:24: Setting selected recipe 256
+
+[Info   : Unity Log] 01/07/2024 21:51:25: Setting selected recipe 255
+
+[Info   : Unity Log] 01/07/2024 21:51:26: Setting selected recipe 254
+
+[Info   : Unity Log] 01/07/2024 21:51:28: Setting selected recipe 251
+
+[Info   : Unity Log] 01/07/2024 21:51:28: Setting selected recipe 250
+
+[Info   : Unity Log] 01/07/2024 21:51:31: Setting selected recipe 249
+
+[Info   : Unity Log] 01/07/2024 21:51:32: Setting selected recipe 248
+
+[Info   : Unity Log] 01/07/2024 21:51:46: Setting selected recipe 248
+
+[Info   : Unity Log] 01/07/2024 21:52:00: Setting selected recipe 249
+
+[Info   : Unity Log] 01/07/2024 21:52:02: Setting selected recipe 249
+
+[Info   : Unity Log] 01/07/2024 21:52:05: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 21:52:06: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 21:52:42: Stopped music home at 7335417
+
+[Info   : Unity Log] 01/07/2024 21:52:42: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 21:52:42: Resumed music plains at 0
+
+[Info   : Unity Log] 01/07/2024 21:52:45: Stopped music plains at 95020
+
+[Info   : Unity Log] 01/07/2024 21:52:45: Starting music home
+
+[Info   : Unity Log] 01/07/2024 21:52:45: Resumed music home at 7335417
+
+[Info   : Unity Log] 01/07/2024 21:52:48: Starting music morning
+
+[Info   : Unity Log] 01/07/2024 21:52:49: Stopped music home at 197567
+
+[Info   : Unity Log] 01/07/2024 21:52:58: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:53:00: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:53:01: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:53:02: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:53:11: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:53:11: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:53:23: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 21:53:23: Resumed music plains at 95020
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_2x2x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:53:31: Placed blackmarble_2x2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_2x2x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:53:52: Placed blackmarble_2x2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_2x2x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:54:00: Placed blackmarble_2x2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_2x2x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:54:21: Placed blackmarble_2x2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:54:53: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:54:58: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:55:04: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:55:05: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:10: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:55:17: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:55:18: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:22: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:23: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:24: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:31: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:31: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:52: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:53: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:55:57: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:56:01: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:56:04: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:56:09: Update PlayFab entity token
+
+[Info   : Unity Log] 01/07/2024 21:56:25: Setting selected recipe 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:56:50: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:56:52: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:56:56: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:57:01: Player onboard, total onboard 1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:57:03: Placed blackmarble_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:57:10: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:57:11: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:57:11: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:57:13: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:57:14: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:57:15: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:57:16: Placed blackmarble_floor
+
+[Info   : Unity Log] 01/07/2024 21:57:17: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:57:17: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:57:19: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:57:20: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:57:32: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:57:32: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:57:50: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 21:57:50: Dungeon loaded with 21 rooms in 13.2267 ms.
+
+[Info   : Unity Log] 01/07/2024 21:57:57: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 21:57:57: Dungeon loaded with 13 rooms in 12.0023 ms.
+
+[Info   : Unity Log] 01/07/2024 21:57:57: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:57:57: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:58:06: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 21:58:06: Dungeon loaded with 21 rooms in 14.1643 ms.
+
+[Info   : Unity Log] 01/07/2024 21:58:09: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 21:58:09: Dungeon loaded with 13 rooms in 13.5047 ms.
+
+[Info   : Unity Log] 01/07/2024 21:58:09: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:58:09: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 21:58:15: Stopped music plains at 5074254
+
+[Info   : Unity Log] 01/07/2024 21:58:15: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 21:58:15: Resumed music plains at 5074254
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:58:32: Placed stone_wall_4x2
+
+[Info   : Unity Log] 01/07/2024 21:58:34: Player onboard, total onboard 1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing blackmarble_floor(Clone)
+[Info   : Unity Log] 01/07/2024 21:58:44: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing blackmarble_floor(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:59:14: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:59:21: Placed stone_wall_4x2
+
+[Info   : Unity Log] 01/07/2024 21:59:34: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:59:34: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:59:36: Player onboard, total onboard 1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:59:39: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:59:42: Placed stone_wall_4x2
+
+[Info   : Unity Log] 01/07/2024 21:59:43: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 21:59:45: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 21:59:45: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 21:59:56: Placed stone_wall_4x2
+
+[Info   : Unity Log] 01/07/2024 21:59:59: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:00:00: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:00:01: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:00:02: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:00:04: Placed stone_wall_4x2
+
+[Info   : Unity Log] 01/07/2024 22:00:05: Player onboard, total onboard 1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:00:07: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:00:30: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:00:32: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:00:35: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:00:52: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:38: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:40: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:41: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:51: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:52: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:01:53: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:02:00: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:02:03: Placed stone_wall_4x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:02:06: Placed stone_wall_4x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:02:38: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:02:44: Stopped music plains at 4075109
+
+[Info   : Unity Log] 01/07/2024 22:02:44: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:02:48: Setting selected recipe 11
+
+[Info   : Unity Log] 01/07/2024 22:02:58: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for lox_ribs
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for OLD_wood_roof_icorner
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for portal
+[Info   : Unity Log] 01/07/2024 22:04:11: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:04:11: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:04:22: Stopped music home at 4320153
+
+[Info   : Unity Log] 01/07/2024 22:04:22: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:04:22: Resumed music plains at 4075109
+
+[Info   : Unity Log] 01/07/2024 22:04:24: Stopped music plains at 91257
+
+[Info   : Unity Log] 01/07/2024 22:04:24: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:04:24: Resumed music home at 4320153
+
+[Info   : Unity Log] 01/07/2024 22:04:26: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:04:26: Stopped music home at 75263
+
+[Info   : Unity Log] 01/07/2024 22:04:26: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:04:26: Resumed music plains at 91257
+
+[Info   : Unity Log] 01/07/2024 22:04:27: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:04:31: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:04:32: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for portal
+[Info   : Unity Log] 01/07/2024 22:04:37: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:04:37: Disabling PlayerBase  character_trigger
+
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for portal
+[Info   : Unity Log] 01/07/2024 22:04:37: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:04:37: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:04:39: Stopped music plains at 556953
+
+[Info   : Unity Log] 01/07/2024 22:04:39: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:04:39: Resumed music home at 75263
+
+[Info   : Unity Log] 01/07/2024 22:04:56: Disabling Blocker  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_cookingstation_iron(Clone)
+[Info   : Unity Log] 01/07/2024 22:04:59: Placed piece_cookingstation_iron
+
+[Info   : Unity Log] 01/07/2024 22:04:59: Disabling Blocker  blocker
+
+[Info   : Unity Log] 01/07/2024 22:04:59: Disabling Blocker  blocker
+
+[Info   : Unity Log] 01/07/2024 22:05:00: Disabling Capsule_blockplayer  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_cauldron(Clone)
+[Info   : Unity Log] 01/07/2024 22:05:02: Placed piece_cauldron
+
+[Info   : Unity Log] 01/07/2024 22:05:02: Disabling Capsule_blockplayer  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext3_butchertable(Clone)
+[Info   : Unity Log] 01/07/2024 22:05:09: Placed cauldron_ext3_butchertable
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext5_mortarandpestle(Clone)
+[Info   : Unity Log] 01/07/2024 22:05:15: Placed cauldron_ext5_mortarandpestle
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext4_pots(Clone)
+[Info   : Unity Log] 01/07/2024 22:05:23: Placed cauldron_ext4_pots
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:17: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:19: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:21: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:23: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:30: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:06:31: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:00: Placed wood_beam_1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:09: Placed wood_beam_1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:10: Placed wood_beam_1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:16: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:17: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:20: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:21: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:26: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:28: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:31: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:33: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:34: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:36: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:38: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext1_spice(Clone)
+[Info   : Unity Log] 01/07/2024 22:07:50: Placed cauldron_ext1_spice
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:07:53: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandBackItemPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:08:06: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:08:06: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:08:19: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:08:19: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:08:19: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:08:19: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing portal_wood(Clone)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing rug_fur(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:09:15: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:09:16: Placed stone_floor_2x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing portal_wood(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:09:30: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:09:31: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:09:36: Placed stone_floor_2x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:10:01: Stopped music home at 6056085
+
+[Info   : Unity Log] 01/07/2024 22:10:01: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:10:01: Resumed music home at 6056085
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:10:07: Placed stone_floor_2x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:10:37: Update PlayFab entity token
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_wall_half(Clone)
+[Info   : Unity Log] 01/07/2024 22:10:38: Placed wood_wall_half
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:11:02: Stopped music home at 2702918
+
+[Info   : Unity Log] 01/07/2024 22:11:02: Starting music plains
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_wall_half(Clone)
+[Info   : Unity Log] 01/07/2024 22:11:05: Placed wood_wall_half
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating darkwood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:11:12: Placed darkwood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating darkwood_decowall(Clone)
+[Info   : Unity Log] 01/07/2024 22:11:38: Placed darkwood_decowall
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:11:53: Placed stone_wall_1x1
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:12:05: Stopped music plains at 2781004
+
+[Info   : Unity Log] 01/07/2024 22:12:05: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:12:05: Resumed music home at 2702918
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:12:15: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:15: Disabling HatchProxy  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_oven(Clone)
+[Info   : Unity Log] 01/07/2024 22:12:17: Placed piece_oven
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:17: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:12:23: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:23: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:23: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:24: Add fuel
+
+[Info   : Unity Log] 01/07/2024 22:12:31: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:31: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:31: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:12:31: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:13:47: Starting music evening
+
+[Info   : Unity Log] 01/07/2024 22:13:48: Stopped music home at 4529011
+
+[Info   : Unity Log] 01/07/2024 22:14:33: Setting selected recipe 11
+
+[Info   : Unity Log] 01/07/2024 22:14:34: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:14:34: Resumed music home at 4529011
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:15:52: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_LeatherBed
+[Info   : Unity Log] 01/07/2024 22:16:24: Disabling PlayerBase  character_trigger
+
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_LogChair
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_LogChair
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_LogChair
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_BronzeFrameChest
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_FineWoodBasket
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BFP_BronzeFrameChest
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:17:31: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:31: Disabling PlayerBase  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating portal_wood(Clone)
+[Info   : Unity Log] 01/07/2024 22:17:40: Placed portal_wood
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:17:40: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :XPortal.Log] Setting portal tag `부두2` and target `1:186136` on behalf of 1554380810
+[Info   : Unity Log] 01/07/2024 22:18:28: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:18:28: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:18:28: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:18:28: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:18:28: Stopped music home at 2167759
+
+[Info   : Unity Log] 01/07/2024 22:18:28: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:18:28: Resumed music home at 2167759
+
+[Info   : Unity Log] 01/07/2024 22:18:34: Stopped music home at 268127
+
+[Info   : Unity Log] 01/07/2024 22:18:34: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:18:34: Resumed music home at 268127
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:18:40: Stopped music home at 266246
+
+[Info   : Unity Log] 01/07/2024 22:18:40: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:18:41: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:18:41: Dungeon loaded with 21 rooms in 14.0025 ms.
+
+[Info   : Unity Log] 01/07/2024 22:18:44: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:18:44: Dungeon loaded with 13 rooms in 11.8059 ms.
+
+[Info   : Unity Log] 01/07/2024 22:18:44: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:18:44: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:18:49: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:18:50: Stopped music plains at 454406
+
+[Info   : Unity Log] 01/07/2024 22:18:50: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:18:50: Resumed music plains at 454406
+
+[Info   : Unity Log] 01/07/2024 22:18:51: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:18:54: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:18:54: Stopped music plains at 165580
+
+[Info   : Unity Log] 01/07/2024 22:18:54: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:18:54: Resumed music plains at 165580
+
+[Info   : Unity Log] 01/07/2024 22:18:56: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:18:57: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:18:58: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:19:21: Stopped music plains at 1158124
+
+[Info   : Unity Log] 01/07/2024 22:19:21: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:19:21: Resumed music home at 266246
+
+[Info   : Unity Log] 01/07/2024 22:19:23: Uncompressed size 8420673
+
+[Info   : Unity Log] 01/07/2024 22:19:23: Compressed size 40706
+
+[Info   : Unity Log] 01/07/2024 22:19:23: Sending message to save player profiles
+
+[Info   : Unity Log] 01/07/2024 22:19:23: PrepareSave: clone done in 194ms
+
+[Info   : Unity Log] 01/07/2024 22:19:23: PrepareSave: ZDOExtraData.PrepareSave done in 142 ms
+
+[Info   : Unity Log] 01/07/2024 22:19:33: Stopped music home at 564479
+
+[Info   : Unity Log] 01/07/2024 22:19:34: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:19:34: Resumed music home at 564479
+
+[Info   : Unity Log] 01/07/2024 22:19:43: Stopped music home at 403603
+
+[Info   : Unity Log] 01/07/2024 22:19:43: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:19:43: Resumed music plains at 1158124
+
+[Info   : Unity Log] 01/07/2024 22:20:03: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:03: Dungeon loaded with 21 rooms in 13.5054 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:07: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:07: Dungeon loaded with 13 rooms in 13.0256 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:08: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:08: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:12: Stopped music plains at 1288895
+
+[Info   : Unity Log] 01/07/2024 22:20:12: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:12: Resumed music plains at 1288895
+
+[Info   : Unity Log] 01/07/2024 22:20:14: Stopped music plains at 79967
+
+[Info   : Unity Log] 01/07/2024 22:20:14: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:20:14: Resumed music home at 403603
+
+[Info   : Unity Log] 01/07/2024 22:20:15: Stopped music home at 33868
+
+[Info   : Unity Log] 01/07/2024 22:20:15: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:15: Resumed music plains at 79967
+
+[Info   : Unity Log] 01/07/2024 22:20:19: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:19: Dungeon loaded with 21 rooms in 12.8343 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Stopped music plains at 270009
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Resumed music plains at 270009
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Dungeon loaded with 13 rooms in 12.0027 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:21: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:22: Stopped music plains at 56447
+
+[Info   : Unity Log] 01/07/2024 22:20:22: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:20:22: Resumed music home at 33868
+
+[Info   : Unity Log] 01/07/2024 22:20:23: Stopped music home at 43276
+
+[Info   : Unity Log] 01/07/2024 22:20:23: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:23: Resumed music plains at 56447
+
+[Info   : Unity Log] 01/07/2024 22:20:28: Stopped music plains at 224851
+
+[Info   : Unity Log] 01/07/2024 22:20:28: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:20:28: Resumed music home at 43276
+
+[Info   : Unity Log] 01/07/2024 22:20:33: Stopped music home at 216383
+
+[Info   : Unity Log] 01/07/2024 22:20:33: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:33: Resumed music plains at 224851
+
+[Info   : Unity Log] 01/07/2024 22:20:43: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:43: Dungeon loaded with 21 rooms in 14.0028 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:45: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:45: Dungeon loaded with 13 rooms in 13.004 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:45: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:45: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:51: Stopped music plains at 770515
+
+[Info   : Unity Log] 01/07/2024 22:20:51: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:20:51: Resumed music plains at 770515
+
+[Info   : Unity Log] 01/07/2024 22:20:52: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:52: Dungeon loaded with 21 rooms in 13.5347 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:54: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:20:54: Dungeon loaded with 13 rooms in 12.0103 ms.
+
+[Info   : Unity Log] 01/07/2024 22:20:54: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:20:54: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:21:26: Stopped music plains at 1526918
+
+[Info   : Unity Log] 01/07/2024 22:21:26: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:21:26: Resumed music plains at 1526918
+
+[Info   : Unity Log] 01/07/2024 22:21:29: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:21:30: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:21:36: Left click
+
+[Info   : Unity Log] 01/07/2024 22:21:36: Stopped music plains at 464755
+
+[Info   : Unity Log] 01/07/2024 22:21:36: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:21:36: Resumed music home at 216383
+
+[Info   : Unity Log] 01/07/2024 22:22:02: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:22:04: Stopped music home at 1245619
+
+[Info   : Unity Log] 01/07/2024 22:22:04: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:22:04: Resumed music plains at 464755
+
+[Info   : Unity Log] 01/07/2024 22:22:07: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:22:07: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:22:07: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:22:07: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:22:13: Player over board, players left 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:22:25: Stopped music plains at 892819
+
+[Info   : Unity Log] 01/07/2024 22:22:25: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:22:25: Resumed music home at 1245619
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:22:49: Starting music morning
+
+[Info   : Unity Log] 01/07/2024 22:22:50: Stopped music home at 1096972
+
+[Info   : Unity Log] 01/07/2024 22:23:23: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:23:23: Resumed music home at 1096972
+
+[Info   : Unity Log] 01/07/2024 22:23:29: Stopped music home at 232377
+
+[Info   : Unity Log] 01/07/2024 22:23:29: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:23:29: Resumed music home at 232377
+
+[Info   : Unity Log] 01/07/2024 22:24:00: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:24:04: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:24:33: Stopped music home at 2846860
+
+[Info   : Unity Log] 01/07/2024 22:24:33: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:24:33: Resumed music plains at 892819
+
+[Info   : Unity Log] 01/07/2024 22:24:43: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:24:43: Dungeon loaded with 21 rooms in 13.003 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:24:55: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:24:56: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:24:57: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:24:58: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:24:59: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:01: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:32: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:34: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:35: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:36: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:38: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:39: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:41: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:42: Placed GB_Stone_Halfwall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_Stone_Halfwall(Clone)
+[Info   : Unity Log] 01/07/2024 22:25:43: Placed GB_Stone_Halfwall
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:26:25: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:27:21: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:27:25: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:27:25: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:25: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:27:28: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:27:28: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:28: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:27:33: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:27:33: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:33: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:37: Update PlayFab entity token
+
+[Info   : Unity Log] 01/07/2024 22:27:48: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:27:48: Dungeon loaded with 13 rooms in 14.0038 ms.
+
+[Info   : Unity Log] 01/07/2024 22:27:48: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:27:48: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:27:51: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:27:51: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:51: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:27:56: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:27:56: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:27:56: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:02: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:02: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:02: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:05: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:05: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:05: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:09: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:09: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:09: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:16: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:28:16: Dungeon loaded with 21 rooms in 12.3847 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:21: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:21: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:22: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:23: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:23: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:23: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:28: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:28: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:28: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:30: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:30: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:30: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:32: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:32: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:32: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:33: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:33: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:33: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:37: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:37: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:37: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:40: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:40: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:40: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:28:43: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:28:43: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:43: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:28:54: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:28:54: Dungeon loaded with 13 rooms in 14.0052 ms.
+
+[Info   : Unity Log] 01/07/2024 22:28:55: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:28:55: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:28:59: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:28:59: Dungeon loaded with 21 rooms in 12.0031 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:09: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:09: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:09: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:17: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:17: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:17: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:30: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:30: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:30: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:35: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:35: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:35: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:39: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:39: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:39: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:44: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:44: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:44: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:50: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:50: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:50: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:29:59: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:29:59: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:29:59: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:03: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:03: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:03: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:04: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:04: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:04: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:08: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:08: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:08: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:12: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:12: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:12: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:14: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:14: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:14: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:17: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:17: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:17: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:18: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:18: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:18: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:38: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:38: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:38: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:30:43: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:30:43: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:43: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:30:57: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:30:57: Dungeon loaded with 13 rooms in 12.0026 ms.
+
+[Info   : Unity Log] 01/07/2024 22:30:57: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:30:57: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:00: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:00: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:00: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:09: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:09: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:09: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:11: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:11: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:11: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:15: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:15: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:15: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:17: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:17: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:17: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:20: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:20: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:20: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:24: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:24: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:24: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:27: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:27: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:27: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:31: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:31: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:31: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:35: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:31:35: Dungeon loaded with 21 rooms in 13.0036 ms.
+
+[Info   : Unity Log] 01/07/2024 22:31:36: Spawned Fish7 x 2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:36: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:36: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:36: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:41: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:41: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:41: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:43: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:43: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:43: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:47: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:47: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:47: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:31:53: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:31:53: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:53: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:31:56: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:31:56: Dungeon loaded with 13 rooms in 12.0026 ms.
+
+[Info   : Unity Log] 01/07/2024 22:31:57: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:31:57: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:05: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:05: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:05: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:09: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:09: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:09: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:12: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:12: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:12: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:14: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:14: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:14: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:15: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:15: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:15: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:18: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:18: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:18: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:21: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:21: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:21: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:25: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:25: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:25: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:37: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:37: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:37: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:42: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:42: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:42: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:44: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:44: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:44: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:47: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:47: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:47: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:50: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:50: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:50: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:32:52: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:32:52: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:32:52: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:14: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:14: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:14: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:19: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:19: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:19: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:23: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:23: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:23: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:30: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:30: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:30: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:32: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:32: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:32: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:35: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:35: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:35: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:38: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:38: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:38: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:33:46: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:33:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:33:57: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:33:57: Dungeon loaded with 21 rooms in 13.0025 ms.
+
+[Info   : Unity Log] 01/07/2024 22:34:02: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:34:02: Dungeon loaded with 13 rooms in 13.0114 ms.
+
+[Info   : Unity Log] 01/07/2024 22:34:03: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:34:03: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:34:10: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:34:10: Dungeon loaded with 21 rooms in 13.0028 ms.
+
+[Info   : Unity Log] 01/07/2024 22:34:14: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:34:14: Dungeon loaded with 13 rooms in 13.0027 ms.
+
+[Info   : Unity Log] 01/07/2024 22:34:15: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:34:15: Setting saddle:False
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:34:57: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:34:57: Dungeon loaded with 21 rooms in 12.7089 ms.
+
+[Info   : Unity Log] 01/07/2024 22:35:03: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:35:03: Dungeon loaded with 21 rooms in 13.0053 ms.
+
+[Info   : Unity Log] 01/07/2024 22:35:05: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:35:05: Dungeon loaded with 13 rooms in 12.0022 ms.
+
+[Info   : Unity Log] 01/07/2024 22:35:05: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:35:05: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:35:29: Stopped music plains at 5523114
+
+[Info   : Unity Log] 01/07/2024 22:35:29: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:35:31: Stopped music home at 97843
+
+[Info   : Unity Log] 01/07/2024 22:35:31: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:35:31: Resumed music plains at 5523114
+
+[Info   : Unity Log] 01/07/2024 22:35:33: Stopped music plains at 85612
+
+[Info   : Unity Log] 01/07/2024 22:35:33: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:35:33: Resumed music home at 97843
+
+[Info   : Unity Log] 01/07/2024 22:35:40: Stopped music home at 267187
+
+[Info   : Unity Log] 01/07/2024 22:35:40: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:35:40: Resumed music plains at 85612
+
+[Info   : Unity Log] 01/07/2024 22:35:42: Stopped music plains at 90316
+
+[Info   : Unity Log] 01/07/2024 22:35:42: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:35:42: Resumed music home at 267187
+
+[Info   :XPortal.Log] Setting portal tag `부두2` and target `1:222014` on behalf of 1554380810
+[Info   : Unity Log] 01/07/2024 22:36:12: Stopped music home at 1345343
+
+[Info   : Unity Log] 01/07/2024 22:36:12: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:36:12: Resumed music plains at 90316
+
+[Info   : Unity Log] 01/07/2024 22:36:30: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:36:30: Dungeon loaded with 13 rooms in 14.006 ms.
+
+[Info   : Unity Log] 01/07/2024 22:36:30: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:36:30: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:36:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:36:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:36:59: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:01: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:03: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:05: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:08: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:10: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:16: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:17: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:18: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:19: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:20: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:22: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:36: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:38: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:40: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:42: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:44: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:45: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:51: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:52: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:53: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:54: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:55: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:56: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:57: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:58: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:37:59: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:00: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:01: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:03: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing big_stone_floor_2x2(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:07: Placed big_stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:38:07: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:38:07: Dungeon loaded with 21 rooms in 13.003 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:08: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:09: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:11: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:12: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:14: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:16: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:18: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:21: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing big_stone_floor_2x2(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:28: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:30: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:31: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:32: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:36: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:38: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:39: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:40: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:38:44: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:38:44: Dungeon loaded with 13 rooms in 13.0025 ms.
+
+[Info   : Unity Log] 01/07/2024 22:38:44: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:38:44: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:49: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:50: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:51: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:52: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:38:53: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:17: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:25: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:28: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:30: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:39:42: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:39:42: Dungeon loaded with 21 rooms in 14.0032 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:43: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:45: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:48: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:50: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:50: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:52: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:53: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:39:55: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:01: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:03: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_floor_2x2(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:07: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:11: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:11: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:12: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:13: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:15: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:16: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:40:18: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:40:18: Dungeon loaded with 13 rooms in 13.0025 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:18: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:40:18: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:40:18: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:19: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:20: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:21: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:22: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:24: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:27: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:31: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:38: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:40: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:41: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:42: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:46: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:48: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:54: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:55: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:57: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:40:59: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:04: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:09: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:12: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:13: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:21: Placed big_stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:25: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:27: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:29: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:34: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:36: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:41:37: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 22:41:45: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:41:45: Dungeon loaded with 21 rooms in 12.8681 ms.
+
+[Info   : Unity Log] 01/07/2024 22:41:56: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:41:56: Dungeon loaded with 13 rooms in 13.002 ms.
+
+[Info   : Unity Log] 01/07/2024 22:41:56: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:41:56: Setting saddle:False
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:42:29: Disabling HIT AREA  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_dvergr_sharpstakes(Clone)
+[Info   : Unity Log] 01/07/2024 22:42:38: Placed piece_dvergr_sharpstakes
+
+[Info   : Unity Log] 01/07/2024 22:42:38: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:42:38: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:42:58: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:42:58: Dungeon loaded with 13 rooms in 12.0026 ms.
+
+[Info   : Unity Log] 01/07/2024 22:42:58: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:42:58: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:43:17: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:43:17: Dungeon loaded with 21 rooms in 13.0083 ms.
+
+[Info   : Unity Log] 01/07/2024 22:43:26: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:43:26: Dungeon loaded with 13 rooms in 13.0145 ms.
+
+[Info   : Unity Log] 01/07/2024 22:43:26: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:43:26: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   : Unity Log] 01/07/2024 22:43:48: Starting music evening
+
+[Info   : Unity Log] 01/07/2024 22:43:49: Stopped music plains at 4523465
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing wood_wall_log(Clone)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating big_wood_stair_biggest(Clone)
+[Info   : Unity Log] 01/07/2024 22:44:19: Placed big_wood_stair_biggest
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:44:27: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:44:30: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:44:31: Placed wood_floor_1x1
+
+[Info   : Unity Log] 01/07/2024 22:44:35: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:44:35: Resumed music plains at 4523465
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing big_wood_stair_biggest(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:45:39: Placed stone_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:45:40: Placed stone_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 22:45:51: Placed wood_floor_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:45:57: Placed wood_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:45:59: Placed wood_stair
+
+[Info   : Unity Log] 01/07/2024 22:46:01: Update PlayFab entity token
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating Hayze_gate_06(Clone)
+[Info   : Unity Log] 01/07/2024 22:46:18: Placed Hayze_gate_06
+
+[Info   : Unity Log] 01/07/2024 22:46:28: Setting selected recipe 11
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_WoodWindow_OdinPlus(Clone)
+[Info   : Unity Log] 01/07/2024 22:47:25: Placed GB_WoodWindow_OdinPlus
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating GB_WoodWindow_OdinPlus(Clone)
+[Info   : Unity Log] 01/07/2024 22:47:30: Placed GB_WoodWindow_OdinPlus
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:05: Placed wood_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:06: Placed wood_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:08: Placed wood_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_stair(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:10: Placed wood_stair
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:15: Placed wood_floor
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_floor(Clone)
+[Info   : Unity Log] 01/07/2024 22:48:16: Placed wood_floor
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:48:28: Stopped music plains at 2515278
+
+[Info   : Unity Log] 01/07/2024 22:48:29: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:48:29: Resumed music plains at 2515278
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:48:44: Setting selected recipe 11
+
+[Info   : Unity Log] 01/07/2024 22:48:52: Setting selected recipe 17
+
+[Info   : Unity Log] 01/07/2024 22:48:56: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:49:00: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:49:23: Uncompressed size 8420707
+
+[Info   : Unity Log] 01/07/2024 22:49:23: Compressed size 40722
+
+[Info   : Unity Log] 01/07/2024 22:49:23: Sending message to save player profiles
+
+[Info   : Unity Log] 01/07/2024 22:49:23: PrepareSave: clone done in 139ms
+
+[Info   : Unity Log] 01/07/2024 22:49:23: PrepareSave: ZDOExtraData.PrepareSave done in 213 ms
+
+[Info   : Unity Log] 01/07/2024 22:49:24: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:49:26: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:49:48: Unloading unused assets
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4480.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4352.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4416.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4480.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4544.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4416.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4352.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4544.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4352.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4416.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4480.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4544.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4352.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4416.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4480.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4544.00, 0.00, -4800.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4608.00, 0.00, -4992.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4608.00, 0.00, -4928.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4352.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4416.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4480.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4544.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4608.00, 0.00, -5056.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4608.00, 0.00, -4864.00)
+
+[Info   : Unity Log] 01/07/2024 22:49:53: Force generating hmap (4608.00, 0.00, -4800.00)
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:50:37: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:37: Disabling PlayerBase  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating portal_wood(Clone)
+[Info   : Unity Log] 01/07/2024 22:50:48: Placed portal_wood
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:50:48: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :XPortal.Log] Setting portal tag `집11` and target `1554380810:1526380` on behalf of 1554380810
+[Info   : Unity Log] 01/07/2024 22:51:11: Teleportation TRIGGER
+
+[Info   : Unity Log] 01/07/2024 22:51:11: Teleporting Kuhehehe
+
+[Info   :FastTeleport] Set teleport timer to 8
+[Info   :TeleportEverything] Transported 0 allies. Transport allies enabled: True.
+[Info   : Unity Log] 01/07/2024 22:51:21: Stopped music plains at 7624243
+
+[Info   : Unity Log] 01/07/2024 22:51:21: Starting music home
+
+[Info   :XPortal.Log] Setting portal tag `부두2` and target `1554380810:1529540` on behalf of 1554380810
+[Info   : Unity Log] 01/07/2024 22:51:26: Teleportation TRIGGER
+
+[Info   : Unity Log] 01/07/2024 22:51:26: Teleporting Kuhehehe
+
+[Info   :FastTeleport] Set teleport timer to 8
+[Info   :TeleportEverything] Transported 0 allies. Transport allies enabled: True.
+[Info   : Unity Log] 01/07/2024 22:51:29: Stopped music home at 343391
+
+[Info   : Unity Log] 01/07/2024 22:51:29: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:51:29: Resumed music plains at 7624243
+
+[Info   : Unity Log] 01/07/2024 22:51:49: Left click
+
+[Info   : Unity Log] 01/07/2024 22:52:18: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:52:18: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:52:18: Disabling TELEPORT  character_trigger
+
+[Info   : Unity Log] 01/07/2024 22:52:18: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_stair(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_stair(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_stair(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_stair(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_stair(Clone)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:52:35: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:52:37: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:52:40: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:52:42: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:52:44: Placed stone_floor_2x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:52:50: Starting music morning
+
+[Info   : Unity Log] 01/07/2024 22:52:51: Stopped music plains at 3607967
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:15: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:18: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:53:20: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:53:20: Dungeon loaded with 21 rooms in 13.0032 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:20: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:23: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Dungeon loaded with 13 rooms in 12.003 ms.
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Resumed music plains at 3607967
+
+[Info   : Unity Log] 01/07/2024 22:53:25: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:26: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:28: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:32: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:35: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:43: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:51: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:53:58: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:01: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:06: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:08: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:54:13: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:54:14: Dungeon loaded with 21 rooms in 13.0118 ms.
+
+[Info   : Unity Log] 01/07/2024 22:54:15: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:54:15: Dungeon loaded with 13 rooms in 13.0038 ms.
+
+[Info   : Unity Log] 01/07/2024 22:54:16: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:54:16: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:27: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:29: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:32: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:54:33: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:54:33: Dungeon loaded with 21 rooms in 14.0048 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:34: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:36: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:54:37: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:54:37: Dungeon loaded with 13 rooms in 24.0051 ms.
+
+[Info   : Unity Log] 01/07/2024 22:54:38: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:54:38: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:39: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:43: Placed large_demister
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:54:44: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:55:00: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:55:00: Dungeon loaded with 21 rooms in 13.0029 ms.
+
+[Info   : Unity Log] 01/07/2024 22:55:14: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:55:14: Dungeon loaded with 13 rooms in 13.0027 ms.
+
+[Info   : Unity Log] 01/07/2024 22:55:14: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:55:14: Setting saddle:False
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:55:37: Placed large_demister
+
+[Info   : Unity Log] 01/07/2024 22:55:37: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:55:38: Player over board, players left 0
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating large_demister(Clone)
+[Info   : Unity Log] 01/07/2024 22:55:40: Placed large_demister
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:55:49: Player onboard, total onboard 1
+
+[Info   : Unity Log] 01/07/2024 22:55:49: Player over board, players left 0
+
+[Info   : Unity Log] 01/07/2024 22:56:13: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:56:13: Dungeon loaded with 21 rooms in 13.0051 ms.
+
+[Info   : Unity Log] 01/07/2024 22:56:28: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:56:28: Dungeon loaded with 13 rooms in 13.0027 ms.
+
+[Info   : Unity Log] 01/07/2024 22:56:28: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:56:28: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:57:17: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:57:17: Dungeon loaded with 21 rooms in 13.6849 ms.
+
+[Info   : Unity Log] 01/07/2024 22:57:33: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 22:57:33: Dungeon loaded with 13 rooms in 12.0033 ms.
+
+[Info   : Unity Log] 01/07/2024 22:57:33: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:57:33: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 22:57:40: Setting selected recipe 0
+
+[Info   : Unity Log] 01/07/2024 22:57:57: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:33: Placed wood_beam_26
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:34: Placed wood_beam_26
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:43: Placed wood_beam_26
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:47: Placed wood_beam_26
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:52: Placed wood_beam_26
+
+[Info   : Unity Log] 01/07/2024 22:58:54: Stopped music plains at 6722535
+
+[Info   : Unity Log] 01/07/2024 22:58:54: Starting music home
+
+[Info   : Unity Log] 01/07/2024 22:58:55: Stopped music home at 14111
+
+[Info   : Unity Log] 01/07/2024 22:58:55: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:58:55: Resumed music plains at 6722535
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_26(Clone)
+[Info   : Unity Log] 01/07/2024 22:58:58: Placed wood_beam_26
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_1(Clone)
+[Info   : Unity Log] 01/07/2024 22:59:06: Placed wood_beam_1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam_1(Clone)
+[Info   : Unity Log] 01/07/2024 22:59:08: Placed wood_beam_1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:59:15: Placed wood_beam
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating wood_beam(Clone)
+[Info   : Unity Log] 01/07/2024 22:59:17: Placed wood_beam
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 22:59:34: Stopped music plains at 1735775
+
+[Info   : Unity Log] 01/07/2024 22:59:34: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 22:59:34: Resumed music plains at 1735775
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 22:59:42: Placed stone_floor_2x2
+
+[Info   : Unity Log] 01/07/2024 23:00:00: Stopped music plains at 1123315
+
+[Info   : Unity Log] 01/07/2024 23:00:00: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:00:00: Resumed music plains at 1123315
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_floor_2x2(Clone)
+[Info   : Unity Log] 01/07/2024 23:00:09: Placed stone_floor_2x2
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:00:33: Placed stone_wall_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_1x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:00:33: Placed stone_wall_1x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_wall_1x1(Clone)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_4x2(Clone)
+[Info   : Unity Log] 01/07/2024 23:01:06: Placed stone_wall_4x2
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:01:46: Update PlayFab entity token
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_2x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:01:47: Placed stone_wall_2x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_2x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:01:50: Placed stone_wall_2x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_2x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:01:50: Placed stone_wall_2x1
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Removing stone_wall_2x1(Clone)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:02:14: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:02:14: Dungeon loaded with 21 rooms in 15.0037 ms.
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating stone_wall_2x1(Clone)
+[Info   : Unity Log] 01/07/2024 23:02:45: Placed stone_wall_2x1
+
+[Info   : Unity Log] 01/07/2024 23:02:48: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:02:48: Dungeon loaded with 13 rooms in 13.004 ms.
+
+[Info   : Unity Log] 01/07/2024 23:02:48: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:02:48: Setting saddle:False
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:03:05: Stopped music plains at 385307
+
+[Info   : Unity Log] 01/07/2024 23:03:05: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:03:05: Resumed music home at 14111
+
+[Info   : Unity Log] 01/07/2024 23:03:25: Stopped music home at 856127
+
+[Info   : Unity Log] 01/07/2024 23:03:25: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:03:25: Resumed music home at 856127
+
+[Info   : Unity Log] 01/07/2024 23:03:27: Stopped music home at 92198
+
+[Info   : Unity Log] 01/07/2024 23:03:27: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:03:27: Resumed music plains at 385307
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Stopped music plains at 354681
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Resumed music plains at 354681
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Stopped music plains at 354681
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:03:35: Resumed music home at 92198
+
+[Info   : Unity Log] 01/07/2024 23:04:00: Stopped music home at 1119551
+
+[Info   : Unity Log] 01/07/2024 23:04:00: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:04:00: Resumed music plains at 354681
+
+[Info   : Unity Log] 01/07/2024 23:04:08: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:04:08: Dungeon loaded with 21 rooms in 13.0052 ms.
+
+[Info   : Unity Log] 01/07/2024 23:04:14: Stopped music plains at 577651
+
+[Info   : Unity Log] 01/07/2024 23:04:14: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:04:14: Resumed music home at 1119551
+
+[Info   : Unity Log] 01/07/2024 23:04:27: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:04:27: Dungeon loaded with 13 rooms in 17.4573 ms.
+
+[Info   : Unity Log] 01/07/2024 23:04:27: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:04:27: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:04:28: Stopped music home at 652915
+
+[Info   : Unity Log] 01/07/2024 23:04:28: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:04:28: Resumed music plains at 577651
+
+[Info   : Unity Log] 01/07/2024 23:04:31: Uncompressed size 8420739
+
+[Info   : Unity Log] 01/07/2024 23:04:31: Compressed size 40735
+
+[Info   : Unity Log] 01/07/2024 23:04:31: PrepareSave: clone done in 178ms
+
+[Info   : Unity Log] 01/07/2024 23:04:31: PrepareSave: ZDOExtraData.PrepareSave done in 168 ms
+
+[Info   : Unity Log] 01/07/2024 23:04:37: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for Ice_floor
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BossStone_Eikthyr
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for cultivate
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for CreepProp_entrance2
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BossStone_Bonemass
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for BossStone_DragonQueen
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dragoneggcup
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stake
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:06:42: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:06:47: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:06:50: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:06:54: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:00: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:03: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:07: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:13: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:16: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:18: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:21: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:25: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:34: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:39: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:40: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:44: Placed dvergrtown_wood_stakewall
+
+[Info   : Unity Log] 01/07/2024 23:07:49: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:07:49: Dungeon loaded with 21 rooms in 15.0032 ms.
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:50: Placed dvergrtown_wood_stakewall
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating dvergrtown_wood_stakewall(Clone)
+[Info   : Unity Log] 01/07/2024 23:07:54: Placed dvergrtown_wood_stakewall
+
+[Info   : Unity Log] 01/07/2024 23:07:58: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:07:58: Dungeon loaded with 13 rooms in 13.0035 ms.
+
+[Info   : Unity Log] 01/07/2024 23:07:58: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:07:58: Setting saddle:False
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:07:59: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:07:59: Dungeon loaded with 21 rooms in 13.0034 ms.
+
+[Info   : Unity Log] 01/07/2024 23:08:02: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:08:02: Dungeon loaded with 13 rooms in 13.033 ms.
+
+[Info   : Unity Log] 01/07/2024 23:08:02: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:08:02: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:08:31: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:08:31: Dungeon loaded with 21 rooms in 13.0025 ms.
+
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   :Heinermann.BetterCreative.Patches] Setting up placement ghost for dvergrtown_wood_stakewall
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:08:41: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:08:41: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:08:44: Disabling Capsule_blockplayer  blocker
+
+[Info   : Unity Log] 01/07/2024 23:08:50: Stopped music plains at 3728910
+
+[Info   : Unity Log] 01/07/2024 23:08:50: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:08:50: Resumed music home at 652915
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_cauldron(Clone)
+[Info   : Unity Log] 01/07/2024 23:08:57: Placed piece_cauldron
+
+[Info   : Unity Log] 01/07/2024 23:08:57: Disabling Capsule_blockplayer  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext3_butchertable(Clone)
+[Info   : Unity Log] 01/07/2024 23:09:07: Placed cauldron_ext3_butchertable
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext5_mortarandpestle(Clone)
+[Info   : Unity Log] 01/07/2024 23:09:12: Placed cauldron_ext5_mortarandpestle
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext4_pots(Clone)
+[Info   : Unity Log] 01/07/2024 23:09:23: Placed cauldron_ext4_pots
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext1_spice(Clone)
+[Info   : Unity Log] 01/07/2024 23:09:32: Placed cauldron_ext1_spice
+
+[Info   : Unity Log] 01/07/2024 23:09:36: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:09:36: Disabling HatchProxy  character_trigger
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_oven(Clone)
+[Info   : Unity Log] 01/07/2024 23:10:00: Placed piece_oven
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:00: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:10:10: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandBackItemPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:10:38: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:10:38: Dungeon loaded with 13 rooms in 11.0003 ms.
+
+[Info   : Unity Log] 01/07/2024 23:10:38: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:10:38: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:10:40: Stopped music home at 4862995
+
+[Info   : Unity Log] 01/07/2024 23:10:40: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:10:40: Resumed music plains at 3728910
+
+[Info   : Unity Log] 01/07/2024 23:10:44: Stopped music plains at 170284
+
+[Info   : Unity Log] 01/07/2024 23:10:44: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:10:44: Resumed music home at 4862995
+
+[Info   : Unity Log] 01/07/2024 23:10:47: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:47: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:47: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:10:47: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:10:52: Disabling Capsule_blockplayer  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating piece_cauldron(Clone)
+[Info   : Unity Log] 01/07/2024 23:11:01: Placed piece_cauldron
+
+[Info   : Unity Log] 01/07/2024 23:11:01: Disabling Capsule_blockplayer  blocker
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext3_butchertable(Clone)
+[Info   : Unity Log] 01/07/2024 23:11:09: Placed cauldron_ext3_butchertable
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext5_mortarandpestle(Clone)
+[Info   : Unity Log] 01/07/2024 23:11:16: Placed cauldron_ext5_mortarandpestle
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext4_pots(Clone)
+[Info   : Unity Log] 01/07/2024 23:11:26: Placed cauldron_ext4_pots
+
+[Info   :Heinermann.BetterCreative.UndoHelper] Creating cauldron_ext1_spice(Clone)
+[Info   : Unity Log] 01/07/2024 23:11:34: Placed cauldron_ext1_spice
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:11:38: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandBackItemPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:11:53: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 01/07/2024 23:11:53: Disabling HatchProxy  character_trigger
+
+[Info   : Unity Log] [ValheimVRM] RightHandEuqipPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:12:13: Stopped music home at 3913727
+
+[Info   : Unity Log] 01/07/2024 23:12:13: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:12:13: Resumed music plains at 170284
+
+[Info   : Unity Log] 01/07/2024 23:12:16: Spawned Seagal x 1
+
+[Info   : Unity Log] 01/07/2024 23:12:17: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:12:17: Dungeon loaded with 21 rooms in 14.0026 ms.
+
+[Info   : Unity Log] 01/07/2024 23:12:18: Stopped music plains at 242726
+
+[Info   : Unity Log] 01/07/2024 23:12:18: Starting music home
+
+[Info   : Unity Log] 01/07/2024 23:12:18: Resumed music home at 3913727
+
+[Info   : Unity Log] 01/07/2024 23:12:21: Setting selected recipe 0
+
+[Info   : Unity Log] [ValheimVRM] RightHandBackItemPos: (0.00, 0.00, 0.00)
+[Info   : Unity Log] 01/07/2024 23:12:30: Loading dungeon
+
+[Info   : Unity Log] 01/07/2024 23:12:30: Dungeon loaded with 13 rooms in 13.003 ms.
+
+[Info   : Unity Log] 01/07/2024 23:12:30: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:12:30: Setting saddle:False
+
+[Info   : Unity Log] 01/07/2024 23:12:33: Uncompressed size 8420739
+
+[Info   : Unity Log] 01/07/2024 23:12:33: Compressed size 40735
+
+[Info   : Unity Log] 01/07/2024 23:12:33: PrepareSave: clone done in 149ms
+
+[Info   : Unity Log] 01/07/2024 23:12:33: PrepareSave: ZDOExtraData.PrepareSave done in 131 ms
+
+[Info   : Unity Log] 01/07/2024 23:12:40: Stopped music home at 945503
+
+[Info   : Unity Log] 01/07/2024 23:12:40: Starting music plains
+
+[Info   : Unity Log] 01/07/2024 23:12:40: Resumed music plains at 242726
+
+[Info   : Unity Log] 01/07/2024 23:12:43: Game - OnApplicationQuit
+
+[Info   : Unity Log] 01/07/2024 23:12:43: Shuting down
+
+[Info   : Unity Log] 01/07/2024 23:12:43: Uncompressed size 8420739
+
+[Info   : Unity Log] 01/07/2024 23:12:43: Compressed size 40735
+
+[Info   :AllTameable-Overhaul] Reseting TameLists
+[Info   :AllTameable-Overhaul] Loaded: AllTameable_TameList_From_Default.cfg
+[Info   :AllTameable-Overhaul] succesfully added Boar to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Deer to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greyling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Neck to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Bat to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Skeleton to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Surtling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Blob to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Draugr to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Poison to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Poison with mates Skeleton
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton with mates Skeleton_Poison
+[Info   :AllTameable-Overhaul] succesfully added Ghost to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf_Shaman to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Leech to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Serpent to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Wraith to the tametable
+[Info   :AllTameable-Overhaul] succesfully added BlobElite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Greydwarf_Elite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Deathsquito to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Draugr_Elite to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Abomination to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Fenring to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Goblin to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hatchling to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Lox to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Troll to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Wolf to the tametable
+[Info   :AllTameable-Overhaul] succesfully added BlobTar to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Ulv to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinBrute to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman to the tametable
+[Info   :AllTameable-Overhaul] succesfully added StoneGolem to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Dverger to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMage to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageFire to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageIce to the tametable
+[Info   :AllTameable-Overhaul] succesfully added DvergerMageSupport to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Dverger with mates DvergerMage, DvergerMageFire, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMage with mates Dverger, DvergerMageFire, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageFire with mates Dverger, DvergerMage, DvergerMageIce, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageIce with mates Dverger, DvergerMage, DvergerMageFire, DvergerMageSupport
+[Info   :AllTameable-Overhaul] succesfully Mated DvergerMageSupport with mates Dverger, DvergerMage, DvergerMageFire, DvergerMageIce
+[Info   :AllTameable-Overhaul] succesfully added Seeker to the tametable
+[Info   :AllTameable-Overhaul] succesfully added SeekerBrute to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Seeker with mates SeekerBrute
+[Info   :AllTameable-Overhaul] succesfully Mated SeekerBrute with mates Seeker
+[Info   :AllTameable-Overhaul] succesfully added Tick to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hare to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Hen to the tametable
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Hildir with mates Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Skeleton_Hildir_nochest with mates Skeleton_Hildir
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Hildir with mates Skeleton_Hildir, Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Skeleton_Hildir_nochest with mates Skeleton_Hildir, Skeleton_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Fenring_Cultist_Hildir with mates Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated Fenring_Cultist_Hildir_nochest with mates Fenring_Cultist_Hildir
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist_Hildir with mates Fenring_Cultist_Hildir, Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Fenring_Cultist_Hildir_nochest with mates Fenring_Cultist_Hildir, Fenring_Cultist_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated GoblinShaman_Hildir with mates GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully Mated GoblinShaman_Hildir_nochest with mates GoblinShaman_Hildir
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman_Hildir with mates GoblinShaman_Hildir, GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added GoblinShaman_Hildir_nochest with mates GoblinShaman_Hildir, GoblinShaman_Hildir_nochest
+[Info   :AllTameable-Overhaul] succesfully added Eikthyr to the tametable
+[Info   :AllTameable-Overhaul] succesfully added gd_king to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Bonemass to the tametable
+[Info   :AllTameable-Overhaul] succesfully added Dragon to the tametable
+[Info   :AllTameable-Overhaul] succesfully added GoblinKing to the tametable
+[Info   :AllTameable-Overhaul] succesfully added SeekerQueen to the tametable
+[Info   :AllTameable-Overhaul] AllTameable:Your list has: Boar,  Deer,  Greyling,  Neck,  Bat,  Greydwarf,  Skeleton,  Surtling,  Blob,  Draugr,  Skeleton_Poison,  Ghost,  Greydwarf_Shaman,  Leech,  Serpent,  Wraith,  BlobElite,  Greydwarf_Elite,  Deathsquito,  Draugr_Elite,  Abomination,  Fenring,  Goblin,  Hatchling,  Lox,  Troll,  Wolf,  BlobTar,  Ulv,  Fenring_Cultist,  GoblinBrute,  GoblinShaman,  StoneGolem,  Dverger,  DvergerMage,  DvergerMageFire,  DvergerMageIce,  DvergerMageSupport,  Seeker,  SeekerBrute,  Tick,  Hare,  Hen,  Skeleton_Hildir,  Skeleton_Hildir_nochest,  Fenring_Cultist_Hildir,  Fenring_Cultist_Hildir_nochest,  GoblinShaman_Hildir,  GoblinShaman_Hildir_nochest,  Eikthyr,  gd_king,  Bonemass,  Dragon,  GoblinKing,  SeekerQueen,  
+[Info   : Unity Log] 01/07/2024 23:12:43: ZNet Shutdown
+
+[Info   : Unity Log] 01/07/2024 23:12:43: PrepareSave: clone done in 142ms
+
+[Info   : Unity Log] 01/07/2024 23:12:43: PrepareSave: ZDOExtraData.PrepareSave done in 219 ms
+
+[Info   : Unity Log] 01/07/2024 23:12:48: Unloading unused assets
+
+[Info   : Unity Log] 01/07/2024 23:12:48: Sending disconnect msg
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 01/07/2024 23:12:48: Stopping build thread
+
+[Info   : Unity Log] UnityResourceDestroyer.OnDestroy
+[Info   : Unity Log] 01/07/2024 23:12:52: Steam manager on destroy
+
+[Info   : Unity Log] 01/07/2024 23:12:52: ZNet OnDestroy
+
+[Info   : Unity Log] 01/07/2024 23:12:52: Net scene destroyed
+
+[Info   : Unity Log] UnityResourceDestroyer.OnDestroy
